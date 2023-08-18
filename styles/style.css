@@ -1,7 +1,4 @@
-.pokeSearchbar {
-    background-color: red;;
-}
-
-.column {
+.collumn {
     border: 1px solid black;
+    margin: 20px;
 }
